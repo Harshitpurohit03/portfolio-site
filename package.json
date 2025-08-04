@@ -1,0 +1,9 @@
+{
+  "name": "portfolio-site",
+  "version": "1.0.0",
+  "main": "lambda.js",
+  "dependencies": {
+    "mime-types": "^2.1.35"
+  }
+}
+
